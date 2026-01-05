@@ -12,9 +12,7 @@ Os exercícios estão organizados por módulos, refletindo a divisão das aulas 
 
 🟢 Módulo 02 - Metodologia
 
-🟢 Módulo 03 - Elementos básicos de Python e Numpy - Parte I
-
-🟢 Módulo 03 - Elementos básicos de Python e Numpy - Parte II
+🟢 Módulo 03 - Elementos básicos de Python e Numpy - Parte I e Parte II
 
 <br>
 
