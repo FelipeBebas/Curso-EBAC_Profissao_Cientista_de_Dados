@@ -6,110 +6,118 @@ Este repositório foi criado para armazenar e organizar os exercícios realizado
 
 Os exercícios estão organizados por módulos, refletindo a divisão das aulas no curso. Cada módulo contém de exercícios práticos que abordam conceitos fundamentais de Data Science, incluindo:
 
-# 🟢Desenvolvimento em Ciência de Dados e Metodologia Crisp-DM
+### 🟢 **Desenvolvimento em Ciência de Dados e Metodologia Crisp-DM**
 
-🟢Módulo 01 - Perspectivas de Carreira
+🟢 Módulo 01 - Perspectivas de Carreira
 
-🟢Módulo 02 - Metodologia
+🟢 Módulo 02 - Metodologia
 
-🟢Módulo 03 - Elementos básicos de Python e Numpy - Parte I
+🟢 Módulo 03 - Elementos básicos de Python e Numpy - Parte I
 
-🟢Módulo 03 - Elementos básicos de Python e Numpy - Parte II
----
+🟢 Módulo 03 - Elementos básicos de Python e Numpy - Parte II
 
-# 🟣Python em Ciência de Dados
+<br>
 
-🟣Módulo 04 - Introdução ao Pandas e carga de dados
+### 🟣 **Python em Ciência de Dados**
 
-🟣Módulo 05 - Limpeza e preparação de dados
+🟣 Módulo 04 - Introdução ao Pandas e carga de dados
 
-🟣Módulo 06 - Descritiva I
+🟣 Módulo 05 - Limpeza e preparação de dados
 
-🟣Módulo 07 - Árvores I
+🟣 Módulo 06 - Descritiva I
 
-🟣Módulo 08 - Git / GitHub - Controle de versionamento
----
+🟣 Módulo 07 - Árvores I
 
-# 🔵Desenvolvimento de aplicações com Python
+🟣 Módulo 08 - Git / GitHub - Controle de versionamento
 
-🔵Módulo 09 - TdD III - Agregações e operações em grupos
+<br>
 
-🔵Módulo 10 - Descritiva II - Análise descritiva para resposta contínua
+### 🔵 Desenvolvimento de aplicações com Python
 
-🔵Módulo 11 - Árvores II (Parte I: árvore de regressão)
+🔵 Módulo 09 - TdD III - Agregações e operações em grupos
 
-🔵Módulo 12 - Regressão I
+🔵 Módulo 10 - Descritiva II - Análise descritiva para resposta contínua
 
-🔵Módulo 13 - Regressão II
+🔵 Módulo 11 - Árvores II (Parte I: árvore de regressão)
 
-🔵Módulo 14 - Scripting
+🔵 Módulo 12 - Regressão I
 
-🔵Módulo 15 - Streamlit I
----
+🔵 Módulo 13 - Regressão II
 
-# 🟡Desenvolvimento Modelos com Pandas e Python
+🔵 Módulo 14 - Scripting
 
-🟡Módulo 16 - TdD IV - Pandas avançado
+🔵 Módulo 15 - Streamlit I
 
-🟡Módulo 17 - Árvores II 
+<br>
 
-🟡Módulo 18 - Regressão Logística I
+### 🟡Desenvolvimento Modelos com Pandas e Python
 
-🟡Módulo 19 - Streamlit II
+🟡 Módulo 16 - TdD IV - Pandas avançado
 
-🟡Módulo 20 - Markdown / Terminal
----
+🟡 Módulo 17 - Árvores II 
 
-# 🟠Gestão avançada de Dados e Desenvolvimento de aplicações
+🟡 Módulo 18 - Regressão Logística I
 
-🟠Módulo 21 - TdD V - SQL
+🟡 Módulo 19 - Streamlit II
 
-🟠Módulo 22 - Descritiva III - Gráficos interativos
+🟡 Módulo 20 - Markdown / Terminal
 
-🟠Módulo 23 - Combinação de modelos I
+<br>
 
-🟠Módulo 24 - Combinação de modelos II
+### 🟠Gestão avançada de Dados e Desenvolvimento de aplicações
 
-🟠Módulo 25 - Cálculo
+🟠 Módulo 21 - TdD V - SQL
 
-🟠Módulo 26 - Álgebra Linear
+🟠 Módulo 22 - Descritiva III - Gráficos interativos
 
-🟠Módulo 27 - PCA
+🟠 Módulo 23 - Combinação de modelos I
 
-🟠Módulo 28 - Streamlit III, IV
----
+🟠 Módulo 24 - Combinação de modelos II
 
-# 🔴Agrupamento e Segmentação de Dados
+🟠 Módulo 25 - Cálculo
 
-🔴Módulo 29 - K-means
+🟠 Módulo 26 - Álgebra Linear
 
-🔴Módulo 30 - Hierárquicos / aglomerativos
+🟠 Módulo 27 - PCA
 
-🔴Módulo 31 - Streamlit V
----
+🟠 Módulo 28 - Streamlit III, IV
 
-# 🟤Modelagem estatística e Regressão com Python
+<br>
 
-🟤Módulo 32 - Probabilidade
+### 🔴Agrupamento e Segmentação de Dados
 
-🟤Módulo 33 - Inferência Estatística
+🔴 Módulo 29 - K-means
 
-🟤Módulo 34 - Regressão III
+🔴 Módulo 30 - Hierárquicos / aglomerativos
 
-🟤Módulo 35 - Regressão IV
----
+🔴 Módulo 31 - Streamlit V
 
-# 🟢Modelagem de Dados Categorizados
+<br>
 
-🟢Módulo 36 - Descritiva IV: Visualização de dados categorizados
+### 🟤Modelagem estatística e Regressão com Python
 
-🟢Módulo 37 - Regressão Logística II
+🟤 Módulo 32 - Probabilidade
 
-🟢Módulo 38 - Streamlit VI e Pycaret
----
+🟤 Módulo 33 - Inferência Estatística
 
-# ⚪Projeto Final
+🟤 Módulo 34 - Regressão III
 
----
+🟤 Módulo 35 - Regressão IV
+
+<br>
+
+### 🟢Modelagem de Dados Categorizados
+
+🟢 Módulo 36 - Descritiva IV: Visualização de dados categorizados
+
+🟢 Módulo 37 - Regressão Logística II
+
+🟢 Módulo 38 - Streamlit VI e Pycaret
+
+<br>
+
+### ⚪Projeto Final
+
+
 
 
