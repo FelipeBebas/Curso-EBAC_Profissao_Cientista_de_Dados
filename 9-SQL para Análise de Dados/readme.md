@@ -1,0 +1,1 @@
+Todos os exercicios deste módulo foram feitos com Athena, na plataforma da AWS. Exploramos diversas maneiras de criar, alterar e excluir dados através do SQL. 
