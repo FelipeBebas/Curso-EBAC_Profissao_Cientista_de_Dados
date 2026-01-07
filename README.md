@@ -7,31 +7,18 @@ Este repositório foi criado para armazenar e organizar os exercícios realizado
 Os exercícios estão organizados por módulos, refletindo a divisão das aulas no curso. Cada módulo contém de exercícios práticos que abordam conceitos fundamentais de Data Science, incluindo:
 
 ### 🟢 **Desenvolvimento em Ciência de Dados e Metodologia Crisp-DM**
-<details>
-<summary>Ver módulos</summary>
-
 - Módulo 01 - Perspectivas de Carreira  
 - Módulo 02 - Metodologia  
 - Módulo 03 - Elementos básicos de Python e Numpy - Parte I e Parte II  
 
-</details>
-
 ### 🟣 **Python em Ciência de Dados**
-<details>
-<summary>Ver módulos</summary>
-
 - Módulo 04 - Introdução ao Pandas e carga de dados  
 - Módulo 05 - Limpeza e preparação de dados  
 - Módulo 06 - Descritiva I  
 - Módulo 07 - Árvores I  
 - Módulo 08 - Git / GitHub - Controle de versionamento  
 
-</details>
-
 ### 🔵 **Desenvolvimento de aplicações com Python**
-<details>
-<summary>Ver módulos</summary>
-
 - Módulo 09 - TdD III - Agregações e operações em grupos  
 - Módulo 10 - Descritiva II - Análise descritiva para resposta contínua  
 - Módulo 11 - Árvores II (Parte I: árvore de regressão)  
@@ -40,24 +27,14 @@ Os exercícios estão organizados por módulos, refletindo a divisão das aulas 
 - Módulo 14 - Scripting  
 - Módulo 15 - Streamlit I  
 
-</details>
-
 ### 🟡 **Desenvolvimento Modelos com Pandas e Python**
-<details>
-<summary>Ver módulos</summary>
-
 - Módulo 16 - TdD IV - Pandas avançado  
 - Módulo 17 - Árvores II  
 - Módulo 18 - Regressão Logística I  
 - Módulo 19 - Streamlit II  
 - Módulo 20 - Markdown / Terminal  
 
-</details>
-
 ### 🟠 **Gestão avançada de Dados e Desenvolvimento de aplicações**
-<details>
-<summary>Ver módulos</summary>
-
 - Módulo 21 - TdD V - SQL  
 - Módulo 22 - Descritiva III - Gráficos interativos  
 - Módulo 23 - Combinação de modelos I  
@@ -67,39 +44,21 @@ Os exercícios estão organizados por módulos, refletindo a divisão das aulas 
 - Módulo 27 - PCA  
 - Módulo 28 - Streamlit III, IV  
 
-</details>
-
 ### 🔴 **Agrupamento e Segmentação de Dados**
-<details>
-<summary>Ver módulos</summary>
-
 - Módulo 29 - K-means  
 - Módulo 30 - Hierárquicos / aglomerativos  
 - Módulo 31 - Streamlit V  
 
-</details>
-
 ### 🟤 **Modelagem estatística e Regressão com Python**
-<details>
-<summary>Ver módulos</summary>
-
 - Módulo 32 - Probabilidade  
 - Módulo 33 - Inferência Estatística  
 - Módulo 34 - Regressão III  
 - Módulo 35 - Regressão IV  
 
-</details>
-
 ### 🟢 **Modelagem de Dados Categorizados**
-<details>
-<summary>Ver módulos</summary>
-
 - Módulo 36 - Descritiva IV: Visualização de dados categorizados  
 - Módulo 37 - Regressão Logística II  
 - Módulo 38 - Streamlit VI e Pycaret  
-
-
-</details>
 
 
 
